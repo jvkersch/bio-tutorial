@@ -1,0 +1,236 @@
+LOCUS       NZ_CP016551             7395 bp    DNA     circular CON 25-FEB-2017
+DEFINITION  Escherichia coli strain O177:H21 plasmid unnamed5, complete
+            sequence.
+ACCESSION   NZ_CP016551
+VERSION     NZ_CP016551.1
+DBLINK      BioProject: PRJNA224116
+            BioSample: SAMN05407982
+            Assembly: GCF_001693635.1
+KEYWORDS    RefSeq.
+SOURCE      Escherichia coli
+  ORGANISM  Escherichia coli
+            Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+            Enterobacteriaceae; Escherichia.
+REFERENCE   1  (bases 1 to 7395)
+  AUTHORS   Terveer,E.M.
+  TITLE     MCR-1 containing, colistin susceptible E.coli
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 7395)
+  AUTHORS   Terveer,E.M.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (20-JUL-2016) Medical Microbiology, Leiden University
+            Medical Center, Albinusdreef 2, Leiden 2333ZA, Netherlands
+COMMENT     REFSEQ INFORMATION: The reference sequence was derived from
+            CP016551.
+            Source bacterium available from E.M. Terveer, Medical
+            Microbiologist in training, Dept. Medical Microbiology, Leiden
+            University.
+            Annotation was added by the NCBI Prokaryotic Genome Annotation
+            Pipeline (released 2013). Information about the Pipeline can be
+            found here: https://www.ncbi.nlm.nih.gov/genome/annotation_prok/
+            
+            ##Genome-Assembly-Data-START##
+            Assembly Date          :: 04-JUN-2016
+            Assembly Method        :: SMRT analysis v. 2.3.0
+            Genome Representation  :: Full
+            Expected Final Version :: Yes
+            Genome Coverage        :: 30.0x
+            Sequencing Technology  :: PacBio
+            ##Genome-Assembly-Data-END##
+            
+            ##Genome-Annotation-Data-START##
+            Annotation Provider               :: NCBI
+            Annotation Date                   :: 02/25/2017 17:11:15
+            Annotation Pipeline               :: NCBI Prokaryotic Genome
+                                                 Annotation Pipeline
+            Annotation Method                 :: Best-placed reference protein
+                                                 set; GeneMarkS+
+            Annotation Software revision      :: 4.1
+            Features Annotated                :: Gene; CDS; rRNA; tRNA; ncRNA;
+                                                 repeat_region
+            Genes (total)                     :: 5,882
+            CDS (total)                       :: 5,754
+            Genes (coding)                    :: 5,300
+            CDS (coding)                      :: 5,300
+            Genes (RNA)                       :: 128
+            rRNAs                             :: 8, 7, 7 (5S, 16S, 23S)
+            complete rRNAs                    :: 8, 7, 7 (5S, 16S, 23S)
+            tRNAs                             :: 97
+            ncRNAs                            :: 9
+            Pseudo Genes (total)              :: 454
+            Pseudo Genes (ambiguous residues) :: 0 of 454
+            Pseudo Genes (frameshifted)       :: 250 of 454
+            Pseudo Genes (incomplete)         :: 194 of 454
+            Pseudo Genes (internal stop)      :: 92 of 454
+            Pseudo Genes (multiple problems)  :: 74 of 454
+            CRISPR Arrays                     :: 2
+            ##Genome-Annotation-Data-END##
+            COMPLETENESS: full length.
+FEATURES             Location/Qualifiers
+     source          1..7395
+                     /organism="Escherichia coli"
+                     /mol_type="genomic DNA"
+                     /strain="O177:H21"
+                     /serotype="O177:H21"
+                     /isolate="asymptomatic colonization"
+                     /isolation_source="faeces"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:562"
+                     /plasmid="unnamed5"
+                     /country="Netherlands: Leiden"
+                     /lat_lon="52.1601 N 4.49701 E"
+                     /altitude="6 m"
+                     /collection_date="13-Apr-2015"
+                     /collected_by="Leiden University Medical Center,
+                     department Medical Microbiology, E.M. Terveer"
+                     /identified_by="E.M. Terveer"
+                     /genotype="ST 359"
+     gene            54..1106
+                     /locus_tag="BB405_RS27955"
+                     /old_locus_tag="BB405_27955"
+                     /pseudo
+     CDS             54..1106
+                     /locus_tag="BB405_RS27955"
+                     /old_locus_tag="BB405_27955"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_020245535.1"
+                     /note="frameshifted; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="pilin accessory family protein"
+     gene            1090..1580
+                     /locus_tag="BB405_RS27960"
+                     /old_locus_tag="BB405_27960"
+                     /pseudo
+     CDS             1090..1580
+                     /locus_tag="BB405_RS27960"
+                     /old_locus_tag="BB405_27960"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001401690.1"
+                     /note="frameshifted; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="pilus assembly protein PilP"
+     gene            1605..3130
+                     /locus_tag="BB405_RS27965"
+                     /old_locus_tag="BB405_27965"
+                     /pseudo
+     CDS             1605..3130
+                     /locus_tag="BB405_RS27965"
+                     /old_locus_tag="BB405_27965"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000466225.1"
+                     /note="frameshifted; internal stop; Derived by automated
+                     computational analysis using gene prediction method:
+                     Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="type II secretion protein E"
+     gene            complement(3479..3688)
+                     /locus_tag="BB405_RS27970"
+                     /old_locus_tag="BB405_27970"
+     CDS             complement(3479..3688)
+                     /locus_tag="BB405_RS27970"
+                     /old_locus_tag="BB405_27970"
+                     /inference="COORDINATES: ab initio prediction:GeneMarkS+"
+                     /note="Derived by automated computational analysis using
+                     gene prediction method: GeneMarkS+."
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+                     /protein_id="WP_065749898.1"
+                     /translation="MQKQRIYVPFSSGNQTYLQYRINLSTSFGARERKKVLWYRDHIM
+                     FANNQNQYGWINHRHNKSHVISERL"
+     gene            4221..4779
+                     /locus_tag="BB405_RS27975"
+                     /old_locus_tag="BB405_27975"
+                     /pseudo
+     CDS             4221..4779
+                     /locus_tag="BB405_RS27975"
+                     /old_locus_tag="BB405_27975"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000095049.1"
+                     /note="frameshifted; internal stop; Derived by automated
+                     computational analysis using gene prediction method:
+                     Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="hypothetical protein"
+     gene            4787..5244
+                     /locus_tag="BB405_RS30365"
+                     /pseudo
+     CDS             4787..5244
+                     /locus_tag="BB405_RS30365"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001258095.1"
+                     /note="frameshifted; internal stop; Derived by automated
+                     computational analysis using gene prediction method:
+                     Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="lytic transglycosylase"
+     gene            5248..5852
+                     /locus_tag="BB405_RS30370"
+                     /pseudo
+     CDS             5248..5852
+                     /locus_tag="BB405_RS30370"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000934977.1"
+                     /note="frameshifted; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="prepilin peptidase"
+     gene            5915..6895
+                     /locus_tag="BB405_RS30375"
+                     /pseudo
+     CDS             5915..6895
+                     /locus_tag="BB405_RS30375"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001356716.1"
+                     /note="frameshifted; internal stop; Derived by automated
+                     computational analysis using gene prediction method:
+                     Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="shufflon protein"
+     gene            6927..7127
+                     /locus_tag="BB405_RS30380"
+                     /pseudo
+     CDS             6927..7127
+                     /locus_tag="BB405_RS30380"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_001368220.1"
+                     /note="frameshifted; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="shufflon protein D'"
+     gene            complement(7106..7374)
+                     /locus_tag="BB405_RS27990"
+                     /old_locus_tag="BB405_27990"
+                     /pseudo
+     CDS             complement(7106..7374)
+                     /locus_tag="BB405_RS27990"
+                     /old_locus_tag="BB405_27990"
+                     /inference="COORDINATES: similar to AA
+                     sequence:RefSeq:WP_000079599.1"
+                     /note="frameshifted; Derived by automated computational
+                     analysis using gene prediction method: Protein Homology."
+                     /pseudo
+                     /codon_start=1
+                     /transl_table=11
+                     /product="pilus assembly protein"
+CONTIG      join(CP016551.1:1..7395)
+//
+
