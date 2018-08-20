@@ -1,0 +1,405 @@
+ID   DPO3A_ECOLI             Reviewed;        1160 AA.
+AC   P10443;
+DT   01-JUL-1989, integrated into UniProtKB/Swiss-Prot.
+DT   01-JUL-1989, sequence version 1.
+DT   20-JUN-2018, entry version 175.
+DE   RecName: Full=DNA polymerase III subunit alpha;
+DE            EC=2.7.7.7 {ECO:0000269|PubMed:2932432};
+GN   Name=dnaE; Synonyms=polC; OrderedLocusNames=b0184, JW0179;
+OS   Escherichia coli (strain K12).
+OC   Bacteria; Proteobacteria; Gammaproteobacteria; Enterobacterales;
+OC   Enterobacteriaceae; Escherichia.
+OX   NCBI_TaxID=83333;
+RN   [1]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA].
+RX   PubMed=3316192; DOI=10.1128/jb.169.12.5735-5744.1987;
+RA   Tomasiewicz H.G., McHenry C.S.;
+RT   "Sequence analysis of the Escherichia coli dnaE gene.";
+RL   J. Bacteriol. 169:5735-5744(1987).
+RN   [2]
+RP   ERRATUM.
+RX   PubMed=2066347;
+RA   Tomasiewicz H.G., McHenry C.S.;
+RL   J. Bacteriol. 173:4549-4549(1991).
+RN   [3]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RA   Takemoto K., Mori H., Murayama N., Kataoka K., Yano M., Itoh T.,
+RA   Yamamoto Y., Inokuchi H., Miki T., Hatada E., Fukuda R., Ichihara S.,
+RA   Mizuno T., Makino K., Nakata A., Yura T., Sampei G., Mizobuchi K.;
+RT   "Systematic sequencing of the Escherichia coli genome: analysis of the
+RT   4.0 - 6.0 min (189,987 - 281,416bp) region.";
+RL   Submitted (FEB-1996) to the EMBL/GenBank/DDBJ databases.
+RN   [4]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RA   Chung E., Allen E., Araujo R., Aparicio A.M., Davis K., Duncan M.,
+RA   Federspiel N., Hyman R., Kalman S., Komp C., Kurdi O., Lew H., Lin D.,
+RA   Namath A., Oefner P., Roberts D., Schramm S., Davis R.W.;
+RT   "Sequence of minutes 4-25 of Escherichia coli.";
+RL   Submitted (JAN-1997) to the EMBL/GenBank/DDBJ databases.
+RN   [5]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / MG1655 / ATCC 47076;
+RX   PubMed=9278503; DOI=10.1126/science.277.5331.1453;
+RA   Blattner F.R., Plunkett G. III, Bloch C.A., Perna N.T., Burland V.,
+RA   Riley M., Collado-Vides J., Glasner J.D., Rode C.K., Mayhew G.F.,
+RA   Gregor J., Davis N.W., Kirkpatrick H.A., Goeden M.A., Rose D.J.,
+RA   Mau B., Shao Y.;
+RT   "The complete genome sequence of Escherichia coli K-12.";
+RL   Science 277:1453-1462(1997).
+RN   [6]
+RP   NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA].
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RX   PubMed=16738553; DOI=10.1038/msb4100049;
+RA   Hayashi K., Morooka N., Yamamoto Y., Fujita K., Isono K., Choi S.,
+RA   Ohtsubo E., Baba T., Wanner B.L., Mori H., Horiuchi T.;
+RT   "Highly accurate genome sequences of Escherichia coli K-12 strains
+RT   MG1655 and W3110.";
+RL   Mol. Syst. Biol. 2:E1-E5(2006).
+RN   [7]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1065-1160, AND NUCLEOTIDE
+RP   SEQUENCE [MRNA] OF 1070-1160.
+RX   PubMed=7678242; DOI=10.1128/jb.175.2.332-340.1993;
+RA   Li S.-J., Cronan J.E. Jr.;
+RT   "Growth rate regulation of Escherichia coli acetyl coenzyme A
+RT   carboxylase, which catalyzes the first committed step of lipid
+RT   biosynthesis.";
+RL   J. Bacteriol. 175:332-340(1993).
+RN   [8]
+RP   NUCLEOTIDE SEQUENCE [GENOMIC DNA] OF 1137-1160.
+RC   STRAIN=K12 / W3110 / ATCC 27325 / DSM 5911;
+RA   Yamamoto Y.;
+RL   Submitted (DEC-1995) to the EMBL/GenBank/DDBJ databases.
+RN   [9]
+RP   IDENTIFICATION OF DNAE AS THE ALPHA SUBUNIT.
+RC   STRAIN=K12 / CS520;
+RX   PubMed=6288664;
+RA   Welch M.M., McHenry C.S.;
+RT   "Cloning and identification of the product of the dnaE gene of
+RT   Escherichia coli.";
+RL   J. Bacteriol. 152:351-356(1982).
+RN   [10]
+RP   FUNCTION AND HIGH PROCESSIVITY.
+RX   PubMed=2413035;
+RA   O'Donnell M.E., Kornberg A.;
+RT   "Dynamics of DNA polymerase III holoenzyme of Escherichia coli in
+RT   replication of a multiprimed template.";
+RL   J. Biol. Chem. 260:12875-12883(1985).
+RN   [11]
+RP   FUNCTION, AND CATALYTIC ACTIVITY.
+RX   PubMed=2932432;
+RA   Maki H., Horiuchi T., Kornberg A.;
+RT   "The polymerase subunit of DNA polymerase III of Escherichia coli. I.
+RT   Amplification of the dnaE gene product and polymerase activity of the
+RT   alpha subunit.";
+RL   J. Biol. Chem. 260:12982-12986(1985).
+RN   [12]
+RP   FUNCTION, SUBUNIT, AND INTERACTION WITH DNAN AND DNAQ.
+RX   PubMed=2040637;
+RA   Stukenberg P.T., Studwell-Vaughan P.S., O'Donnell M.;
+RT   "Mechanism of the sliding beta-clamp of DNA polymerase III
+RT   holoenzyme.";
+RL   J. Biol. Chem. 266:11328-11334(1991).
+RN   [13]
+RP   INTERACTION WITH DNAN, AND MUTAGENESIS OF 920-GLN--PHE-924 AND
+RP   923-MET-PHE-924.
+RC   STRAIN=K12 / XL1-Blue;
+RX   PubMed=11573000; DOI=10.1073/pnas.191384398;
+RA   Dalrymple B.P., Kongsuwan K., Wijffels G., Dixon N.E., Jennings P.A.;
+RT   "A universal protein-protein interaction motif in the eubacterial DNA
+RT   replication and repair systems.";
+RL   Proc. Natl. Acad. Sci. U.S.A. 98:11627-11632(2001).
+RN   [14]
+RP   REPLISOME COMPLEX, AND SUBUNIT.
+RX   PubMed=20413500; DOI=10.1126/science.1185757;
+RA   Reyes-Lamothe R., Sherratt D.J., Leake M.C.;
+RT   "Stoichiometry and architecture of active DNA replication machinery in
+RT   Escherichia coli.";
+RL   Science 328:498-501(2010).
+RN   [15]
+RP   REPLISOME COMPLEX, AND SUBUNIT.
+RX   PubMed=22157955; DOI=10.1038/nsmb.2179;
+RA   Georgescu R.E., Kurth I., O'Donnell M.E.;
+RT   "Single-molecule studies reveal the function of a third polymerase in
+RT   the replisome.";
+RL   Nat. Struct. Mol. Biol. 19:113-116(2011).
+RN   [16] {ECO:0000244|PDB:5FKU, ECO:0000244|PDB:5FKV, ECO:0000244|PDB:5FKW}
+RP   STRUCTURE BY ELECTRON MICROSCOPY (7.30 ANGSTROMS) OF DNAE; DNAN; DNAQ;
+RP   DNAX WITH AND WITHOUT DNA, SUBUNIT, MUTAGENESIS OF 921-ALA--MET-923,
+RP   AND DNA-BINDING.
+RX   PubMed=26499492; DOI=10.7554/eLife.11134;
+RA   Fernandez-Leiro R., Conrad J., Scheres S.H., Lamers M.H.;
+RT   "cryo-EM structures of the E. coli replicative DNA polymerase reveal
+RT   its dynamic interactions with the DNA sliding clamp, exonuclease and
+RT   tau.";
+RL   Elife 4:0-0(2015).
+RN   [17]
+RP   REVIEW.
+RX   PubMed=1575709; DOI=10.1002/bies.950140206;
+RA   O'Donnell M.;
+RT   "Accessory protein function in the DNA polymerase III holoenzyme from
+RT   E. coli.";
+RL   Bioessays 14:105-111(1992).
+RN   [18]
+RP   MUTAGENESIS.
+RX   PubMed=8375647;
+RA   Fijalkowska I.J., Schaaper R.M.;
+RT   "Antimutator mutations in the alpha subunit of Escherichia coli DNA
+RT   polymerase III: identification of the responsible mutations and
+RT   alignment with other DNA polymerases.";
+RL   Genetics 134:1039-1044(1993).
+CC   -!- FUNCTION: DNA polymerase III is a complex, multichain enzyme
+CC       responsible for most of the replicative synthesis in bacteria
+CC       (PubMed:2932432). This DNA polymerase also exhibits 3' to 5'
+CC       exonuclease activity. The alpha chain is the DNA polymerase
+CC       catalytic subunit (PubMed:2932432). It is tethered to replicating
+CC       DNA by the beta sliding clamp (dnaN), which confers extremely high
+CC       processivity to the catalytic subunit, copying a 5.4 kb genome in
+CC       11 seconds, a speed of at least 500 nucleotides/second at 30
+CC       degrees Celsius (PubMed:2413035). {ECO:0000269|PubMed:2413035,
+CC       ECO:0000269|PubMed:2932432}.
+CC   -!- CATALYTIC ACTIVITY: Deoxynucleoside triphosphate + DNA(n) =
+CC       diphosphate + DNA(n+1). {ECO:0000269|PubMed:2932432}.
+CC   -!- SUBUNIT: The DNA polymerase III holoenzyme complex contains at
+CC       least 10 different subunits organized into 3 functionally
+CC       essential subassemblies: the Pol III core, the beta sliding clamp
+CC       processivity factor and the clamp-loading complex. The Pol III
+CC       core (subunits alpha, epsilon and theta) contains the polymerase
+CC       and the 3'-5' exonuclease proofreading activities
+CC       (PubMed:2040637). The polymerase is tethered to the template via
+CC       the dimeric beta sliding clamp processivity factor. The clamp
+CC       loader (also called gamma complex) assembles the beta sliding
+CC       clamp onto the primed template and plays a central role in the
+CC       organization and communication at the replication fork. The clamp-
+CC       loading complex contains delta, delta', psi and chi, and 3 copies
+CC       of either or both of two different DnaX proteins, gamma and tau.
+CC       The DNA replisome complex has a single clamp loader (3 tau and 1
+CC       each of delta, delta', psi and chi subunits) which binds 3 Pol III
+CC       cores (1 core on the leading strand and 2 on the lagging strand)
+CC       each with a beta sliding clamp dimer. Additional proteins in the
+CC       replisome are other copies of gamma, psi and chi, Ssb, DNA
+CC       helicase and RNA primase (PubMed:20413500, PubMed:22157955).
+CC       Interacts with the beta sliding-clamp subunit via the peptide Gln-
+CC       Ala-Asp-Met-Phe (residues 920-924) (PubMed:11573000).
+CC       {ECO:0000269|PubMed:11573000, ECO:0000269|PubMed:2040637,
+CC       ECO:0000269|PubMed:20413500, ECO:0000269|PubMed:22157955}.
+CC   -!- INTERACTION:
+CC       P0A988:dnaN; NbExp=17; IntAct=EBI-549111, EBI-542385;
+CC       P03007:dnaQ; NbExp=22; IntAct=EBI-549111, EBI-549131;
+CC       P06710:dnaX; NbExp=11; IntAct=EBI-549111, EBI-549140;
+CC       P28630:holA; NbExp=5; IntAct=EBI-549111, EBI-549153;
+CC       P0A7K2:rplL; NbExp=3; IntAct=EBI-549111, EBI-543702;
+CC       P77806:ybdL; NbExp=3; IntAct=EBI-549111, EBI-543661;
+CC   -!- SUBCELLULAR LOCATION: Cytoplasm.
+CC   -!- SIMILARITY: Belongs to the DNA polymerase type-C family. DnaE
+CC       subfamily. {ECO:0000305}.
+CC   -!- SEQUENCE CAUTION:
+CC       Sequence=AAA70369.1; Type=Erroneous initiation; Note=Translation N-terminally shortened.; Evidence={ECO:0000305};
+CC   -----------------------------------------------------------------------
+CC   Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+CC   Distributed under the Creative Commons Attribution (CC BY 4.0) License
+CC   -----------------------------------------------------------------------
+DR   EMBL; M19334; AAC36920.1; -; Genomic_DNA.
+DR   EMBL; U70214; AAB08613.1; -; Genomic_DNA.
+DR   EMBL; U00096; AAC73295.1; -; Genomic_DNA.
+DR   EMBL; AP009048; BAA77859.1; -; Genomic_DNA.
+DR   EMBL; S52931; AAB24889.1; -; mRNA.
+DR   EMBL; M96394; AAA70369.1; ALT_INIT; Genomic_DNA.
+DR   EMBL; D49445; BAA08424.1; -; Genomic_DNA.
+DR   PIR; C28390; DJEC3A.
+DR   RefSeq; NP_414726.1; NC_000913.3.
+DR   RefSeq; WP_001294757.1; NZ_LN832404.1.
+DR   PDB; 2HNH; X-ray; 2.30 A; A=1-910.
+DR   PDB; 2HQA; X-ray; 2.60 A; A=1-917.
+DR   PDB; 4GX8; X-ray; 1.70 A; A/B/C/D=1-270.
+DR   PDB; 4GX9; X-ray; 2.15 A; A/B/C/D=1-270.
+DR   PDB; 4JOM; X-ray; 2.90 A; A=1-917.
+DR   PDB; 5FKU; EM; 8.34 A; A=1-1160.
+DR   PDB; 5FKV; EM; 8.00 A; A=1-1160.
+DR   PDB; 5FKW; EM; 7.30 A; A=1-1160.
+DR   PDB; 5M1S; EM; 6.70 A; A=1-927.
+DR   PDBsum; 2HNH; -.
+DR   PDBsum; 2HQA; -.
+DR   PDBsum; 4GX8; -.
+DR   PDBsum; 4GX9; -.
+DR   PDBsum; 4JOM; -.
+DR   PDBsum; 5FKU; -.
+DR   PDBsum; 5FKV; -.
+DR   PDBsum; 5FKW; -.
+DR   PDBsum; 5M1S; -.
+DR   ProteinModelPortal; P10443; -.
+DR   SMR; P10443; -.
+DR   BioGrid; 4262228; 218.
+DR   ComplexPortal; CPX-1925; DNA polymerase III proofreading complex.
+DR   DIP; DIP-9458N; -.
+DR   IntAct; P10443; 70.
+DR   MINT; P10443; -.
+DR   STRING; 316385.ECDH10B_0164; -.
+DR   BindingDB; P10443; -.
+DR   ChEMBL; CHEMBL4621; -.
+DR   PaxDb; P10443; -.
+DR   PRIDE; P10443; -.
+DR   EnsemblBacteria; AAC73295; AAC73295; b0184.
+DR   EnsemblBacteria; BAA77859; BAA77859; BAA77859.
+DR   GeneID; 944877; -.
+DR   KEGG; ecj:JW0179; -.
+DR   KEGG; eco:b0184; -.
+DR   PATRIC; fig|1411691.4.peg.2095; -.
+DR   EchoBASE; EB0234; -.
+DR   EcoGene; EG10238; dnaE.
+DR   eggNOG; ENOG4105C0B; Bacteria.
+DR   eggNOG; COG0587; LUCA.
+DR   HOGENOM; HOG000021784; -.
+DR   InParanoid; P10443; -.
+DR   KO; K02337; -.
+DR   OMA; KSHSTCY; -.
+DR   PhylomeDB; P10443; -.
+DR   BioCyc; EcoCyc:EG10238-MONOMER; -.
+DR   BioCyc; MetaCyc:EG10238-MONOMER; -.
+DR   EvolutionaryTrace; P10443; -.
+DR   PRO; PR:P10443; -.
+DR   Proteomes; UP000000318; Chromosome.
+DR   Proteomes; UP000000625; Chromosome.
+DR   GO; GO:0005737; C:cytoplasm; IDA:EcoliWiki.
+DR   GO; GO:0005829; C:cytosol; IDA:EcoCyc.
+DR   GO; GO:0044776; C:DNA polymerase III, core complex; IDA:EcoCyc.
+DR   GO; GO:0003677; F:DNA binding; IEA:UniProtKB-KW.
+DR   GO; GO:0003887; F:DNA-directed DNA polymerase activity; IDA:EcoliWiki.
+DR   GO; GO:0006260; P:DNA replication; IEA:UniProtKB-KW.
+DR   InterPro; IPR011708; DNA_pol3_alpha.
+DR   InterPro; IPR029460; DNAPol_HHH.
+DR   InterPro; IPR004365; NA-bd_OB_tRNA.
+DR   InterPro; IPR004013; PHP_dom.
+DR   InterPro; IPR003141; Pol/His_phosphatase_N.
+DR   InterPro; IPR016195; Pol/histidinol_Pase-like.
+DR   InterPro; IPR004805; PolC_alpha.
+DR   PANTHER; PTHR32294; PTHR32294; 1.
+DR   Pfam; PF07733; DNA_pol3_alpha; 1.
+DR   Pfam; PF14579; HHH_6; 1.
+DR   Pfam; PF02811; PHP; 1.
+DR   Pfam; PF01336; tRNA_anti-codon; 1.
+DR   SMART; SM00481; POLIIIAc; 1.
+DR   SUPFAM; SSF89550; SSF89550; 1.
+DR   TIGRFAMs; TIGR00594; polc; 1.
+PE   1: Evidence at protein level;
+KW   3D-structure; Complete proteome; Cytoplasm; DNA replication;
+KW   DNA-binding; DNA-directed DNA polymerase; Nucleotidyltransferase;
+KW   Reference proteome; Transferase.
+FT   CHAIN         1   1160       DNA polymerase III subunit alpha.
+FT                                /FTId=PRO_0000103321.
+FT   MUTAGEN     920    924       QADMF->PADMP: Loss of interaction with
+FT                                beta sliding clamp (dnaN).
+FT                                {ECO:0000269|PubMed:11573000}.
+FT   MUTAGEN     921    923       ADM->LDL: Increases binding to beta
+FT                                sliding clamp (dnaN), increases stability
+FT                                of enzyme complex.
+FT                                {ECO:0000269|PubMed:26499492}.
+FT   MUTAGEN     923    924       MF->KK: Loss of interaction with beta
+FT                                sliding clamp (dnaN).
+FT                                {ECO:0000269|PubMed:11573000}.
+FT   TURN         14     17       {ECO:0000244|PDB:4GX8}.
+FT   STRAND       18     20       {ECO:0000244|PDB:4GX8}.
+FT   HELIX        25     33       {ECO:0000244|PDB:4GX8}.
+FT   STRAND       37     44       {ECO:0000244|PDB:4GX8}.
+FT   HELIX        50     59       {ECO:0000244|PDB:4GX8}.
+FT   STRAND       63     73       {ECO:0000244|PDB:4GX8}.
+FT   HELIX        75     77       {ECO:0000244|PDB:4GX8}.
+FT   STRAND       82     88       {ECO:0000244|PDB:4GX8}.
+FT   HELIX        91    106       {ECO:0000244|PDB:4GX8}.
+FT   HELIX       120    124       {ECO:0000244|PDB:4GX8}.
+FT   STRAND      128    131       {ECO:0000244|PDB:4GX8}.
+FT   HELIX       134    136       {ECO:0000244|PDB:4GX8}.
+FT   HELIX       138    145       {ECO:0000244|PDB:4GX8}.
+FT   HELIX       148    161       {ECO:0000244|PDB:4GX8}.
+FT   STRAND      166    170       {ECO:0000244|PDB:4GX8}.
+FT   HELIX       178    192       {ECO:0000244|PDB:4GX8}.
+FT   STRAND      196    198       {ECO:0000244|PDB:4GX8}.
+FT   STRAND      204    206       {ECO:0000244|PDB:4GX8}.
+FT   HELIX       207    209       {ECO:0000244|PDB:4GX8}.
+FT   HELIX       210    221       {ECO:0000244|PDB:4GX8}.
+FT   HELIX       243    249       {ECO:0000244|PDB:4GX8}.
+FT   TURN        250    252       {ECO:0000244|PDB:4GX8}.
+FT   HELIX       254    266       {ECO:0000244|PDB:4GX8}.
+FT   STRAND      284    286       {ECO:0000244|PDB:2HQA}.
+FT   HELIX       288    307       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       311    317       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       319    334       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       338    353       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       365    367       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       369    373       {ECO:0000244|PDB:2HNH}.
+FT   TURN        381    385       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       388    390       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      405    407       {ECO:0000244|PDB:4JOM}.
+FT   HELIX       408    410       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       411    422       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       424    426       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      427    430       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      433    435       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       438    448       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       453    460       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       471    477       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       480    487       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       489    501       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      505    508       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      514    517       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       522    524       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      538    541       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       543    548       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      552    556       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       561    574       {ECO:0000244|PDB:2HNH}.
+FT   TURN        575    580       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       586    588       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       594    601       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      608    610       {ECO:0000244|PDB:2HQA}.
+FT   HELIX       614    623       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       628    637       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       640    643       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       647    655       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      657    659       {ECO:0000244|PDB:2HQA}.
+FT   STRAND      666    669       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       671    673       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       674    677       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       678    680       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       687    698       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       702    714       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       717    733       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       738    752       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       758    777       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       779    789       {ECO:0000244|PDB:2HNH}.
+FT   TURN        790    792       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       794    806       {ECO:0000244|PDB:2HNH}.
+FT   TURN        816    818       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      820    822       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       835    837       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       843    854       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      855    857       {ECO:0000244|PDB:4JOM}.
+FT   HELIX       862    865       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      871    874       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       876    884       {ECO:0000244|PDB:2HNH}.
+FT   TURN        885    891       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       895    899       {ECO:0000244|PDB:2HNH}.
+FT   STRAND      902    905       {ECO:0000244|PDB:2HNH}.
+FT   HELIX       906    909       {ECO:0000244|PDB:2HNH}.
+SQ   SEQUENCE   1160 AA;  129905 MW;  1A4F75F373841716 CRC64;
+     MSEPRFVHLR VHSDYSMIDG LAKTAPLVKK AAALGMPALA ITDFTNLCGL VKFYGAGHGA
+     GIKPIVGADF NVQCDLLGDE LTHLTVLAAN NTGYQNLTLL ISKAYQRGYG AAGPIIDRDW
+     LIELNEGLIL LSGGRMGDVG RSLLRGNSAL VDECVAFYEE HFPDRYFLEL IRTGRPDEES
+     YLHAAVELAE ARGLPVVATN DVRFIDSSDF DAHEIRVAIH DGFTLDDPKR PRNYSPQQYM
+     RSEEEMCELF ADIPEALANT VEIAKRCNVT VRLGEYFLPQ FPTGDMSTED YLVKRAKEGL
+     EERLAFLFPD EEERLKRRPE YDERLETELQ VINQMGFPGY FLIVMEFIQW SKDNGVPVGP
+     GRGSGAGSLV AYALKITDLD PLEFDLLFER FLNPERVSMP DFDVDFCMEK RDQVIEHVAD
+     MYGRDAVSQI ITFGTMAAKA VIRDVGRVLG HPYGFVDRIS KLIPPDPGMT LAKAFEAEPQ
+     LPEIYEADEE VKALIDMARK LEGVTRNAGK HAGGVVIAPT KITDFAPLYC DEEGKHPVTQ
+     FDKSDVEYAG LVKFDFLGLR TLTIINWALE MINKRRAKNG EPPLDIAAIP LDDKKSFDML
+     QRSETTAVFQ LESRGMKDLI KRLQPDCFED MIALVALFRP GPLQSGMVDN FIDRKHGREE
+     ISYPDVQWQH ESLKPVLEPT YGIILYQEQV MQIAQVLSGY TLGGADMLRR AMGKKKPEEM
+     AKQRSVFAEG AEKNGINAEL AMKIFDLVEK FAGYGFNKSH SAAYALVSYQ TLWLKAHYPA
+     EFMAAVMTAD MDNTEKVVGL VDECWRMGLK ILPPDINSGL YHFHVNDDGE IVYGIGAIKG
+     VGEGPIEAII EARNKGGYFR ELFDLCARTD TKKLNRRVLE KLIMSGAFDR LGPHRAALMN
+     SLGDALKAAD QHAKAEAIGQ ADMFGVLAEE PEQIEQSYAS CQPWPEQVVL DGERETLGLY
+     LTGHPINQYL KEIERYVGGV RLKDMHPTER GKVITAAGLV VAARVMVTKR GNRIGICTLD
+     DRSGRLEVML FTDALDKYQQ LLEKDRILIV SGQVSFDDFS GGLKMTAREV MDIDEAREKY
+     ARGLAISLTD RQIDDQLLNR LRQSLEPHRS GTIPVHLYYQ RADARARLRF GATWRVSPSD
+     RLLNDLRGLI GSEQVELEFD
+//
