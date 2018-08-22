@@ -12,7 +12,6 @@ dependencies:
   - pyasn1-modules=0.0.5
   - scikit-bio=0.4.2
   - appdirs=1.4.3
-  - appnope=0.1.0
   - asn1crypto=0.24.0
   - attrs=18.1.0
   - automat=0.7.0
@@ -118,7 +117,6 @@ dependencies:
   - zope.interface=4.5.0
   - bz2file=0.98
   - intel-openmp=2018.0.3
-  - libgfortran=3.0.1
   - mkl=2018.0.3
   - numpy=1.12.1
   - scipy=1.1.0
