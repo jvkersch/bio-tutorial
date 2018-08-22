@@ -1,0 +1,3 @@
+set -ex
+
+jupyter-nbextension enable nglview --py --sys-prefix
