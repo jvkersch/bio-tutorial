@@ -1,6 +1,8 @@
 BioPython/scikit-bio tutorial (EuroSciPy 2018)
 ==============================================
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jvkersch/bio-tutorial/master)
+
 Welcome to the BioPython/scikit-bio tutorial for EuroSciPy 2018 (Trento,
 Italy)! Here you'll find setup instructions, the tutorial materials, and much
 more.
